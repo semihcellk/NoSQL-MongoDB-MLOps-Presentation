@@ -1,0 +1,4 @@
+pymongo==4.18.3
+scikit-learn==1.9.1
+joblib==1.6.0
+rich==15.0.0
